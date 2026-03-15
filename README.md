@@ -84,32 +84,30 @@ A comprehensive **Wellness Tracking Application** built using **Java Swing**, de
 ## Project Structure
 fitpro/
 ├── src/
-│ └── wellnessapp/
-│ ├── exceptions/
-│ │ └── InvalidInputException.java
-│ ├── models/
-│ │ ├── User.java
-│ │ ├── FitnessData.java
-│ │ ├── MealData.java
-│ │ ├── Habit.java
-│ │ └── HabitTracker.java
-│ ├── utils/
-│ │ ├── Validator.java
-│ │ ├── Calculator.java
-│ │ └── FileHandler.java
-│ ├── gui/
-│ │ ├── LoginFrame.java
-│ │ ├── MainFrame.java
-│ │ ├── Dashboard.java
-│ │ ├── FitnessPanel.java
-│ │ ├── MealPanel.java
-│ │ ├── HabitPanel.java
-│ │ └── CalculatorPanel.java
-│ └── main/
-│ └── Main.java
+│   └── wellnessapp/
+│       ├── exceptions/
+│       │   └── InvalidInputException.java
+│       ├── models/
+│       │   ├── User.java
+│       │   ├── FitnessData.java
+│       │   ├── MealData.java
+│       │   ├── Habit.java
+│       │   └── HabitTracker.java
+│       ├── utils/
+│       │   ├── Validator.java
+│       │   ├── Calculator.java
+│       │   └── FileHandler.java
+│       ├── gui/
+│       │   ├── LoginFrame.java
+│       │   ├── MainFrame.java
+│       │   ├── Dashboard.java
+│       │   ├── FitnessPanel.java
+│       │   ├── MealPanel.java
+│       │   ├── HabitPanel.java
+│       │   └── CalculatorPanel.java
+│       └── main/
+│           └── Main.java
 └── README.md
-
-
 ---
 
 ## Setup Instructions
