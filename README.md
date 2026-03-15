@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Wellness App - Java OOP Project
 
 A comprehensive wellness tracking application built with Java Swing, demonstrating Object-Oriented Programming concepts.
@@ -142,3 +143,7 @@ The app includes validation to prevent:
 - All data persists between sessions using file serialization
 - The application uses basic Swing components without advanced styling
 
+=======
+# FITPRO
+BUILDING A FITNESS APP
+>>>>>>> a11d3496be823bdfe452a696781ca0ff48b5f1bd
